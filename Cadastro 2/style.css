@@ -67,21 +67,21 @@ body {
       top:3px;
   }
   
-  /*To remove the outline that appears on clicking the input textbox*/
+ 
   input:focus {
     outline: none;
   }
   
-  /* To format the placeholder text color */
+  
   ::-webkit-input-placeholder {
     color: #ffffff;  
   }
   
-  :-moz-placeholder { /* Firefox 18- */
+  :-moz-placeholder { 
      color: #ffffff;  
   }
   
-  ::-moz-placeholder {  /* Firefox 19+ */
+  ::-moz-placeholder {  
     color: #ffffff;  
   }
   
